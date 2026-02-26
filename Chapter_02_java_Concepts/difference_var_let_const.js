@@ -49,3 +49,7 @@ function abcd() {
 abcd();
 
 // const
+const pi = 3.14;
+// pi = 3.145;// must initialize the value at declaration
+
+console.log(pi);    
