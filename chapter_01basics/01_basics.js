@@ -1,1 +1,1 @@
-console.log("The testing academy.com");
+ console.log("The testing academy.com");
